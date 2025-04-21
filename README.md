@@ -38,3 +38,8 @@ Chat com Hugging Face:
 Permite fazer perguntas sobre a criptomoeda selecionada
 
 Respostas geradas pelo modelo de chat da Hugging Face
+
+cripto-consultor/
+├── app.py                # Código principal do Streamlit
+├── requirements.txt      # Dependências do projeto
+└── README.md             # Instruções do projeto
